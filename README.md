@@ -5,14 +5,8 @@
 
 <img height="200" src="https://i.postimg.cc/SKRgfyFJ/DALL-E-2024-10-03-21-01-50-A-cartoon-version-of-a-girl-coding-in-a-cozy-darker-room-with-her-hai.webp"  /><img align="left" height="200" src="https://i.postimg.cc/8PfXqkjW/Design-uten-navn.png"  />
 
-###
 
-<br clear="both">
-
-<h2 align="left">Skills & Tools</h2>
-
-###
-
+### Skills & Tools 🛠️  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
