@@ -1,15 +1,9 @@
 # Hey you, Im Rikke Juliane!👋🏼
 
-## About me 👸🏽  
-<p align="left">I’m passionate about digital creativity, and I thrive on turning ideas into reality through front-end development and thoughtful design. <br><br>My journey into the world of web development started as a hobby, back when I blogged for fun and experimented with editing blog templates using HTML and CSS. I also explored my creative side in high school, where I studied Media & Communication and enjoyed working with Photoshop and InDesign.<br><br>Though I earned a bachelor’s degree in Marketing from Handelshøyskolen BI, my path shifted after facing personal challenges with anxiety. This experience led me back to my true passion: coding and creating online. Today, I’m fully focused on front-end development and UX/UI design, which feels like the perfect blend of creativity and technology. As part of this journey, I’ve enrolled in Noroff University to further develop my skills. <br><br>When I’m not coding, you’ll find me spending time with my dog 🐕‍🦺, playing tennis 🎾, watching TV series 📺, or getting lost in a good book 📖.</p>
+### About me 👸🏽  
+<p align="left">I’m passionate about digital creativity, and I thrive on turning ideas into reality through front-end development and thoughtful design. <br><br>My journey into the world of web development started as a hobby, back when I blogged for fun and experimented with editing blog templates using HTML and CSS. I also explored my creative side in high school, where I studied Media & Communication and enjoyed working with Photoshop and InDesign.<br><br>Though I earned a bachelor’s degree in Marketing from Handelshøyskolen BI, my path shifted after facing personal challenges with anxiety. This experience led me back to my true passion: coding and creating online. Today, I’m fully focused on front-end development and UX/UI design, which feels like the perfect blend of creativity and technology. As part of this journey, I’ve enrolled in Noroff University to further develop my skills. <br><br>When I’m not coding, you’ll find me spending time with my dog 🐕‍🦺, playing tennis 🎾, watching TV series 📺, or getting lost in a good book 📖.</p>  
 
-###
-
-<img align="right" height="200" src="https://i.postimg.cc/SKRgfyFJ/DALL-E-2024-10-03-21-01-50-A-cartoon-version-of-a-girl-coding-in-a-cozy-darker-room-with-her-hai.webp"  />
-
-###
-
-<img align="left" height="200" src="https://i.postimg.cc/8PfXqkjW/Design-uten-navn.png"  />
+<img height="200" src="https://i.postimg.cc/SKRgfyFJ/DALL-E-2024-10-03-21-01-50-A-cartoon-version-of-a-girl-coding-in-a-cozy-darker-room-with-her-hai.webp"  /><img align="left" height="200" src="https://i.postimg.cc/8PfXqkjW/Design-uten-navn.png"  />
 
 ###
 
