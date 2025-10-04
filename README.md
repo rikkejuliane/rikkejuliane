@@ -12,7 +12,6 @@ When I’m not coding, you’ll find me spending time with my dog Fie🐕‍🦺
 
 <img height="200" src="https://github.com/user-attachments/assets/44edb693-9865-4bc7-bc47-514ed21617e9"/>
 <img height="200" alt="Fie" src="https://github.com/user-attachments/assets/4effd7fb-dd2b-46b4-a6ba-8734474a40cf"/>
-<img height="180" alt="tennis" src="https://github.com/user-attachments/assets/0eb90d61-fbf5-42f2-9417-009f0cf9d0e0" />  
 
 ## Skills & Tools 🛠️  
 <div align="left">
